@@ -5,8 +5,14 @@ version: "1.0.0"
 date-released: 2026-02-27
 doi: 10.5281/zenodo.18802322
 authors:
-  - family-names: Dyowe Roig
+  - family-names: Dyowe-Roig
     given-names: Albert Epitíe
     orcid: https://orcid.org/0000-0002-2710-0816
+  - family-names: Martínez
+    given-names: Laura M.
+    orcid: https://orcid.org/0000-0002-1166-4799
+  - family-names: Estebaranz-Sánchez
+    given-names: Ferran
+    orcid: https://orcid.org/0000-0002-9736-3953
 repository-code: https://github.com/DrDyoweRoig/PolyTrim
 license: CC-BY-4.0
