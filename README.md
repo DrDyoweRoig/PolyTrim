@@ -15,3 +15,10 @@ Surface-based machine learning frameworks
 The module operates on PLY and OBJ mesh formats and performs directory-level batch processing, automatically generating reduced meshes within a structured output subdirectory. By integrating directly into 3D Slicer’s ecosystem, PolyTrim ensures compatibility with established segmentation, transformation, and surface analysis pipelines.
 
 PolyTrim contributes to reproducible computational morphology by formalising mesh standardisation as a transparent and automatable preprocessing step.
+
+
+PolyTrim is intended to support reproducible surface preprocessing workflows in computational morphology. If this software contributes to published research, its citation is appreciated to ensure transparency and methodological traceability.
+
+Suggested citation:
+
+Dyowe Roig, A. (2026). *PolyTrim: A batch mesh standardisation module for 3D Slicer* (Version 1.0.0). GitHub repository. https://github.com/DrDyoweRoig/PolyTrim
