@@ -21,4 +21,5 @@ PolyTrim is intended to support reproducible surface preprocessing workflows in 
 
 Suggested citation:
 
-Dyowe Roig, A. (2026). *PolyTrim: A batch mesh standardisation module for 3D Slicer* (Version 1.0.0). GitHub repository. https://github.com/DrDyoweRoig/PolyTrim
+DrDyoweRoig. (2026). DrDyoweRoig/PolyTrim: PolyTrim v1.0.0 – Initial stable release (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18802322
+
