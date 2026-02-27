@@ -1,0 +1,82 @@
+Installation Guide (No Technical Knowledge Required)
+
+PolyTrim can be installed in 3D Slicer in just a few minutes. No programming or Git experience is required.
+
+Step 1 — Download PolyTrim
+
+Go to the PolyTrim GitHub repository.
+
+Click the green Code button.
+
+Click Download ZIP.
+
+Extract (unzip) the downloaded file to a location on your computer
+(for example: C:\SlicerExtensions\PolyTrim).
+
+⚠️ Important:
+Inside the extracted folder, you should see:
+
+PolyTrim.py
+
+(and optionally PolyTrim.png).
+
+Step 2 — Add PolyTrim to 3D Slicer
+
+Open 3D Slicer.
+
+Go to Edit → Application Settings.
+
+Click on Modules.
+
+Under Additional module paths, click Add.
+
+Select the folder that contains PolyTrim.py.
+
+Click OK.
+
+Restart 3D Slicer.
+
+Restarting is required.
+
+Step 3 — Open the Module
+
+After restarting:
+
+Use the module search bar (top left).
+
+Type:
+
+PolyTrim
+
+Open the module.
+
+How to Use PolyTrim
+
+Input folder
+Select the folder containing your mesh files.
+
+Input format
+Choose either:
+
+PLY
+
+OBJ
+
+Target polygons
+Enter the desired polygon count
+(e.g., 10000 or 20000).
+
+Preserve topology
+Recommended: keep this enabled.
+
+Click Run.
+
+Output
+
+PolyTrim will automatically create a new folder inside your input directory:
+
+input_folder/output/
+
+The reduced meshes will be saved there in PLY format, with the target polygon count appended to the filename:
+
+specimen_20000.ply
