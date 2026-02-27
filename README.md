@@ -21,5 +21,5 @@ PolyTrim is intended to support reproducible surface preprocessing workflows in 
 
 Suggested citation:
 
-DrDyoweRoig. (2026). DrDyoweRoig/PolyTrim: PolyTrim v1.0.0 – Initial stable release (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18802322
+Dyowe-Roig, AE. (2026). DrDyoweRoig/PolyTrim: PolyTrim v1.0.0 – Initial stable release (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18802322
 
