@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as follows."
+title: "PolyTrim: A Batch Mesh Standardisation Module for 3D Slicer"
+version: "1.0.0"
+date-released: 2026-02-27
+doi: 10.5281/zenodo.18802322
+authors:
+  - family-names: Dyowe Roig
+    given-names: Albert Epitíe
+    orcid: https://orcid.org/0000-0002-2710-0816
+repository-code: https://github.com/DrDyoweRoig/PolyTrim
+license: CC-BY-4.0
